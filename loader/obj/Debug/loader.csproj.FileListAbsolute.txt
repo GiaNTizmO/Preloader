@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\loader\loader\bin\Debug\loader.exe.config
+C:\Users\Lenovo\source\repos\loader\loader\bin\Debug\loader.exe
+C:\Users\Lenovo\source\repos\loader\loader\bin\Debug\loader.pdb
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.exe
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.pdb
+C:\Users\Lenovo\source\repos\loader\loader\obj\Debug\loader.Form1.resources
